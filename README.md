@@ -39,4 +39,4 @@ This section proves your technical competency in data analysis and Tableau.
 ## **5. Project Links**
 
   * **View Live Interactive Dashboard:** https://public.tableau.com/app/profile/ashwini.prakash2367/viz/Ev_project_17204391825290/EV_Dashboard1
-  * **View Data and Files:** [Link back to this GitHub Repository]
+  * **View Data and Files:** https://github.com/Ashwiniprakash21/Electric_Vehicle_DB.git
