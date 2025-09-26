@@ -1,12 +1,12 @@
 # Electric_Vehicle_DB
 Market analysis of 150K+ Electric Vehicles (BEV/PHEV) in Tableau. Focuses on brand dominance, geographic trends, and model year growth for strategic market insight.
 
-1. Project Title & Overview
+### 1. Project Title & Overview
  Electric Vehicle Market Analysis Dashboard (Tableau)
 
 Project Goal: To analyze over 150,000 electric vehicle registrations, providing stakeholders with clear insights into market dynamics, brand dominance, and adoption trends for strategic planning in the automotive sector.
 
-2. Key Business Insights & Strategic Findings
+### 2. Key Business Insights & Strategic Findings
 
 Market Dominance: The dashboard tracks **150,413 Total Vehicles**, confirming that Battery Electric Vehicles (BEVs) are the dominant type, accounting for 77.6% of the total fleet.
   * **Brand Leadership:** **TESLA** clearly leads the market share, being the top brand by total vehicles and having multiple models among the most registered.
@@ -16,7 +16,7 @@ Market Dominance: The dashboard tracks **150,413 Total Vehicles**, confirming th
 
 ----
 
-## **3. Technical Skills Demonstrated**
+### **3. Technical Skills Demonstrated**
 
 This section proves your technical competency in data analysis and Tableau.
 
@@ -28,7 +28,7 @@ This section proves your technical competency in data analysis and Tableau.
 
 -----
 
-## **4. Data Source & Access**
+### **4. Data Source & Access**
 
   * **Source:** Publicly Available Electric Vehicle Registration Data (e.g., state or government data source).
   * **Data Size:** Analysis based on over **150,000 vehicle records**.
